@@ -1,0 +1,12 @@
+title: "Visualizing Intergenerational Educational Mobility Using European Social Survey"
+author: Yixuan Liu, Mirko Ruks
+date: 5 December, 2024
+institute: Faculty of Sociology, Bielefeld University
+format: 
+   revealjs:
+     incremental: true
+     slide-number: true
+     smaller: true
+     scrollable: true
+     theme: simple
+     footer: "I4NG Hackathon: European Social Survey"
